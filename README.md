@@ -4,15 +4,15 @@
 #### Enlace de V0  para Fork = https://v0.dev/chat/azure-open-ai-wrapper-global-ai-bootcamp-leon-202-Ohdv5ALhCIk
 ----
 
-### Variables de entorno de Azure OpenAI 
+### Variables de entorno de Azure OpenAI para V0
 
-AZURE_OPENAI_ASSISTANT_ID = ""
+AZURE_OPENAI_ASSISTANT_ID 
 
-AZURE_OPENAI_API_KEY = ""
+AZURE_OPENAI_API_KEY = 
 
-AZURE_OPENAI_DEPLOYMENT = ""
+AZURE_OPENAI_DEPLOYMENT = 
 
-AZURE_OPENAI_ENDPOINT = ""
+AZURE_OPENAI_ENDPOINT = 
 
 ----
 
