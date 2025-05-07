@@ -7,8 +7,11 @@
 ### Variables de entorno de Azure OpenAI 
 
 AZURE_OPENAI_ASSISTANT_ID = ""
+
 AZURE_OPENAI_API_KEY = ""
+
 AZURE_OPENAI_DEPLOYMENT = ""
+
 AZURE_OPENAI_ENDPOINT = ""
 
 ----
