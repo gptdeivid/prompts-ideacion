@@ -1,6 +1,17 @@
 
 # System Prompts Detallados para Prototipos con GPT Wrappers
 
+#### Enlace de V0  para Fork = https://v0.dev/chat/azure-open-ai-wrapper-global-ai-bootcamp-leon-202-Ohdv5ALhCIk
+----
+
+### Variables de entorno de Azure OpenAI 
+
+AZURE_OPENAI_ASSISTANT_ID = ""
+AZURE_OPENAI_API_KEY = ""
+AZURE_OPENAI_DEPLOYMENT = ""
+AZURE_OPENAI_ENDPOINT = ""
+
+----
 
 ## 1. Asistente Experto en Dominio Específico
 
