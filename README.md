@@ -10,6 +10,8 @@ En los archivos de este repositorio encontraras los siguientes documentos como m
 # Plantilla de V0 de Sesion 1
 
 #### Enlace de V0  para Fork = https://v0.dev/chat/azure-open-ai-wrapper-global-ai-bootcamp-leon-202-Ohdv5ALhCIk
+
+#### Enlace de Codigo de Plantilla  V0  para aprender más = https://github.com/gptdeivid/V0Leon/
 ----
 
 ### Variables de entorno de Azure OpenAI para V0
