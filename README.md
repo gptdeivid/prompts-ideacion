@@ -1,6 +1,13 @@
 ![Portada](PortadaPresentacion)
+# Taller de Diseño e Implementacion de Aplicaciones con IA
 
-# System Prompts Detallados para Prototipos con GPT Wrappers
+En los archivos de este repositorio encontraras los siguientes archivos como material de apoyo de las sesiones impartidas
+
+- `Presentacion 1 Prototipado IA.pdf` - Presentacion con Grafica de Precios de Apps de Vibe Coding  y Caso de Uso
+- `Ejercicios Sesion11deación .` - Hoja de Ayuda para Diseño de Prompts
+- `EjerciciosSesion2- NotebookLM & Perplexity.pdf` Ejercicios para hacer usando NotebookLM
+
+
 
 #### Enlace de V0  para Fork = https://v0.dev/chat/azure-open-ai-wrapper-global-ai-bootcamp-leon-202-Ohdv5ALhCIk
 ----
@@ -16,7 +23,7 @@ AZURE_OPENAI_DEPLOYMENT =
 AZURE_OPENAI_ENDPOINT = 
 
 ----
-
+# System Prompts Detallados para Prototipos con GPT Wrappers
 ## 1. Asistente Experto en Dominio Específico
 
 ```
