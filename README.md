@@ -1,7 +1,7 @@
 ![Portada](PortadaPresentacion)
 # Taller de Diseño e Implementacion de Aplicaciones con IA
 
-En los archivos de este repositorio encontraras los siguientes archivos como material de apoyo de las sesiones impartidas
+En los archivos de este repositorio encontraras los siguientes documentos como material de apoyo de las sesiones impartidas
 
 - `Presentacion 1 Prototipado IA.pdf` - Presentacion con Grafica de Precios de Apps de Vibe Coding  y Caso de Uso
 - `Ejercicios Sesion11deación .` - Hoja de Ayuda para Diseño de Prompts
