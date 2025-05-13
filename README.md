@@ -1,3 +1,4 @@
+![Portada](PortadaPresentacion)
 
 # System Prompts Detallados para Prototipos con GPT Wrappers
 
