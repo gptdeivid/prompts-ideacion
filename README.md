@@ -5,7 +5,7 @@ En los archivos de este repositorio encontraras los siguientes documentos como m
 
 - `Presentacion 1 Prototipado IA.pdf` - Presentacion con Grafica de Precios de Apps de Vibe Coding  y Caso de Uso
 - `Ejercicios Sesion11deación .` - Hoja de Ayuda para Diseño de Prompts
-- `EjerciciosSesion2- NotebookLM & Perplexity.pdf` Ejercicios para hacer usando NotebookLM
+- `EjerciciosSesion2- NotebookLM & Perplexity.pdf` Ejercicios Practicos usando NotebookLM y Perplexity
 -----
 # Plantilla de V0 de Sesion 1
 
